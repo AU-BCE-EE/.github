@@ -1,5 +1,5 @@
-# Environmental Engineering Section
-This organization is meant for sharing of, and collaboration on, data, analyses, and models related to the work of the Environmental Engineering Section in the BCE Department at Aarhus University.
+# Air Quality and Emission Engineering Section
+This organization is meant for sharing of, and collaboration on, data, analyses, and models related to the work of the Air Quality and Emission Engineering Section in the BCE Department at Aarhus University.
 
 # Getting access
 Send a message to Sasha at `sasha.hafner@bce.au.dk` or or any member of the [admin team](https://github.com/orgs/AU-BCE-EE/teams/admin/members) to request access to the AU-BCE-EE account and related repos.
